@@ -1,0 +1,22 @@
+Utiliser une image du blason des 4 maisons et les rendre cliquable à la place d'un menu déroulant. Plus stylé mais plus dur.
+
+Donc 4 draggables ? Non ça va, c'est facile.
+Non, on affiche les 4 blasons et quand on passe la souris dessus on applique un effet de halo et il y a juste à cliquer dessus pour confirmer.
+
+Pour la blague, quelque soit la maison choisie, on octroie 500 points pour griffondor de la part de Dumbledore ou ref de ce style.
+
+Mdr si tu veux
+
+Sur le drag me dès que la souris dépasse la boite elle s'arrète ; logique mais très embêtant pour des translations longues comme ce que l'utilisateur devra faire dans le jeu.
+
+Non il suffit d'y aller doucement et de ne pas bouger la souris comme un débile XD 
+
+J'écrirai dans les détails le script du jeu et commencerai la bdd de nos icones-objets . Tu peux envoyer ce que tu avais écrit sur le brainstorm quand on s'était vu ?
+
+Yes sur Messenger, pas de soucis
+
+Je bosserai tout samedi et dimanche dessus, je veux pas que tu penses que tu fais tout toute seule car c'est déjà pas mal du tout ce que tu as fait . Je vais juste devoir plonger dans ton code avant ;) 
+
+Ah ah, d'acc, pas de soucis. Avec Syrano on est en concours dimanche, donc pas sur qu'on avance beaucoup le projet ce jour là ^^
+
+
